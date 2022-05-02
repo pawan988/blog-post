@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header_container{
+    
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-evenly;
+
+    flex-direction: row;
+     box-shadow: 0 8px 6px -6px black;;
+}
+.heder_logo {
+    
+    width: 220px;
+    height: 50px;
+    
+
+    
+}
+.img_logo{
+    width: 210px;
+    height: 25px;
+    margin-top: 10px;
+}
+.hedaer_right{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    height: 10%;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+h4{
+     color: rgb(182, 186, 186);
+    border-bottom: none;
+   }
+
+ h4:hover{
+    color: black;
+} 
+h4:focus{
+    color: blue;
+}

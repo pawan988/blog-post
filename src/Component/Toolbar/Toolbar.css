@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    height: 5rem;
+    background-color: #1aa1a5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+.navigation{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+}

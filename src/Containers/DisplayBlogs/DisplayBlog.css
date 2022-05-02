@@ -1,0 +1,21 @@
+.displayBlog_wrappee{
+    width: 70%;
+    height: 80vh;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+    background-color: orange;
+}
+
+.blogImage_wrapper{
+    width: 100px;
+    height: 150px;
+    border-radius: 10px;
+
+}
+.blogImage_wrapper > img {
+    width: 100%;
+    height: 100%;
+    
+}

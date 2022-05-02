@@ -1,0 +1,15 @@
+.sigin-wrapper {
+    width: 50%;
+    height: 20rem;
+    padding: 10px;
+    border: 1px solid black;
+}
+.signin-wrapper > h3{
+    margin: 10px 0;
+    text-align: center;
+}
+
+.signin-form { 
+    width: 90%;
+    height: 80%;
+    }

@@ -1,0 +1,16 @@
+.Banner{
+    width: 100%;
+    height: 20rem;
+    background-image: url(../../assets/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right-center;
+    display: flex;
+    margin-left: 20px;
+    justify-content: center;
+}
+.content_wrapper{
+    width: 200px;
+    height: 150px;
+    
+}

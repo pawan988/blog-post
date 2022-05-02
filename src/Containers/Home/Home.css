@@ -1,0 +1,17 @@
+.home_page {
+    width: 100%;
+    height: 100vh;
+}
+
+.blogs-wrapper {
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.trending-blogs-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
